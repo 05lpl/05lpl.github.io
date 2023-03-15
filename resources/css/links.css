@@ -1,0 +1,93 @@
+body {
+    background: #77777;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navigation */
+  
+  .navigation {
+    box-sizing: border-box;
+    background-color:#292f36;
+    overflow: auto;
+    padding: 18px 50px;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    color: #FFF;
+    display: inline-block;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 18px 10px 18px;
+    text-transform: uppercase;
+  }
+  
+  .active {
+    color: #88CCF1;
+  }
+  
+h1{
+	margin: 55px
+}
+
+	.mikutap{
+	color: #FFF;
+    display: inline-block;
+    font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 55px;
+    padding: 150px 150px 150px 150px;
+		border :1px dashed gray;
+		text-transform: uppercase;
+    background-image: url(./mikutap.png);
+			background-size: 100%;
+        background-repeat:no-repeat;
+}
+.canvas{
+	color: #FFF;
+    display: inline-block;
+    font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 55px;
+    padding: 150px 150px 150px 150px;
+	border :1px dashed gray;
+	text-transform: uppercase;
+    background-image: url(./canvas.png);
+		background-size: 100%;
+        background-repeat:no-repeat;
+}
+
+.doyoudo{
+	color: #FFF;
+    display: inline-block;
+    font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+    font-size: 30px;
+    font-weight: 300;
+	text-align: center;
+
+	border :1px dashed gray;
+ margin: 55px;
+    padding: 150px 150px 150px 150px;
+	text-transform: uppercase;
+    background-image: url(./doyoudo.png);
+	background-size: 100%;
+    background-repeat:no-repeat;
+}
+
+  
