@@ -164,3 +164,8 @@ h1 {
 	margin: 0 40% 0 20% ;
 	text-align: center;
 }
+
+mark {
+  background-color: yellow;
+  color: black;
+}
